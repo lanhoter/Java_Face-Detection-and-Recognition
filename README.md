@@ -16,6 +16,8 @@ Construct Eigenfaces<br />
 
 ![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Eigenface.PNG)<br />
 
+Email Notification<br />
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Email%20Notification.png)<br />
 
 Steps<br />
 1.Grayscale Face Images<br />
