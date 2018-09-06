@@ -5,17 +5,16 @@ Final Year Project in INTI International University Malaysia
 
 ![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Unknown%20User.png)<br />
 
-Email Notification<br />
+<h3>Email Notification</h3><br />
 ![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Email%20Notification.png)<br />
 
-Algorithm:<br />
+<h3>Algorithm:</h3><br />
 Face Detection: Haar Cascades<br />
 Feature Extraction: Principle Component Analysis <br />
 Face Recognition: Eigenfaces<br />
 <br />
-Study and Implementation of Automated Face Detection and Recognition for Camera Surveillance Using openCV and JAVA language<br />
-<br />
-Construct Eigenfaces<br />
+
+<h3>Construct Eigenfaces</h3><br />
 
 ![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Eigenface.PNG)<br />
 
@@ -25,13 +24,13 @@ Steps<br />
 3.Calculate Eigenfaces(Corresponding to largest Eigenvalue)<br />
 Dataset training<br />
 <br />
-Face Recognition Steps:<br />
+<h3>Face Recognition Steps:</h3><br />
 1.Automatically Crop Face Images<br />
 2.Grayscale and Resize Face images to 220 * 220 pixel<br />
 3.Feature Extraction and Calculate distance <br />
 4.Distance below 0.2 can be identified as same person<br />
 <br />
-Image Face Recognition<br />
+<h3>Image Face Recognition</h3><br />
 1.Steps of Face Recognition from image<br />
 2.Load Face Image<br />
 3.Grayscale, a “STOP” Exposure and Resize<br />
@@ -40,7 +39,7 @@ Image Face Recognition<br />
 6.Calculate Eigenvalues and Similarity<br />
 7.Retrieve results from Face Database<br />
 <br />
-System Strength<br />
+<h3>System Strength</h3><br />
 Fast Face Detection and Recognition within seconds<br />
 Secured based Email Notification<br />
 Detection and Recognition under difficult Light Conditions from 50 lux to 8000 lux<br />
