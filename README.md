@@ -5,6 +5,9 @@ Final Year Project in INTI International University Malaysia
 
 ![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Unknown%20User.png)<br />
 
+Email Notification<br />
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Email%20Notification.png)<br />
+
 Algorithm:<br />
 Face Detection: Haar Cascades<br />
 Feature Extraction: Principle Component Analysis <br />
@@ -15,9 +18,6 @@ Study and Implementation of Automated Face Detection and Recognition for Camera 
 Construct Eigenfaces<br />
 
 ![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Eigenface.PNG)<br />
-
-Email Notification<br />
-![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Email%20Notification.png)<br />
 
 Steps<br />
 1.Grayscale Face Images<br />
