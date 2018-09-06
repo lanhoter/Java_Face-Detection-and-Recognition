@@ -3,7 +3,7 @@
 Final Year Project in INTI International University Malaysia
 <br />
 
-![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Unknown%20User.png)
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Unknown%20User.png)<br />
 
 Algorithm:<br />
 Face Detection: Haar Cascades<br />
@@ -13,6 +13,10 @@ Face Recognition: Eigenfaces<br />
 Study and Implementation of Automated Face Detection and Recognition for Camera Surveillance Using openCV and JAVA language<br />
 <br />
 Construct Eigenfaces<br />
+
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Eigenface.PNG)<br />
+
+
 Steps<br />
 1.Grayscale Face Images<br />
 2.A “STOP” Exposure<br />
