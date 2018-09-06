@@ -6,6 +6,7 @@ Final Year Project in INTI International University Malaysia
 ![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Unknown%20User.png)<br />
 
 <h3>Email Notification</h3><br />
+
 ![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Email%20Notification.png)<br />
 
 <h3>Algorithm:</h3><br />
