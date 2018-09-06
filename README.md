@@ -2,6 +2,9 @@
 
 Final Year Project in INTI International University Malaysia
 <br />
+
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Unknown%20User.png)
+
 Algorithm:<br />
 Face Detection: Haar Cascades<br />
 Feature Extraction: Principle Component Analysis <br />
