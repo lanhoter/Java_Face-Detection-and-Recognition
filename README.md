@@ -1,5 +1,7 @@
 # Java_Face-Detection-and-Recognition
 
+IMPORTANT: you will need openCV library in order to get it run and work.
+
 Final Year Project in INTI International University Malaysia
 <br />
 
