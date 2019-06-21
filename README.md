@@ -9,10 +9,10 @@ Final Year Project in INTI International University Malaysia
 
 ![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Login%20Verification.png)<br />
 
-![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Unknown%20User.png.PNG)<br />
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Unknown%20User.PNG)<br />
 
 
-![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Mutiple%20User.png.PNG)<br />
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Mutiple%20User.PNG)<br />
 
 ![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Problem%20solution.PNG)<br />
 
