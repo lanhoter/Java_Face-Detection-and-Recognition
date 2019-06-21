@@ -5,11 +5,16 @@ IMPORTANT: you will need openCV library in order to get it run and work.
 Final Year Project in INTI International University Malaysia
 <br />
 
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Login.png)<br />
 
-![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Eigenface.PNG)<br />
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Login%20Verification.png)<br />
+
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Unknown%20User.png.PNG)<br />
 
 
-![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Problem solution.PNG)<br />
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Mutiple%20User.png.PNG)<br />
+
+![image](https://github.com/lanhoter/Java_Face-Detection-and-Recognition/blob/master/Images/Problem%20solution.PNG)<br />
 
 
 
